@@ -117,6 +117,10 @@ Bachelor of Computer Applications (BCA) — 66.26% | Swami Ramanand Teertha Mara
 </div>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NileshKusumkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NileshKusumkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NileshKusumkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
